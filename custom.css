@@ -36,6 +36,12 @@ body {
   font-family: "Josefin Slab";
   background-color: rgba(0,0,0,0.5)
 }
+
+.email{
+  font-size: 35px;
+  font-family: "Josefin Slab";
+  background-color: rgba(0,0,0,0)
+}
 /* Carousel base class */
 .carousel {
   height: 500px;
@@ -177,5 +183,26 @@ body {
 
 .navbar-brand{
   font-size: 32px;
+}
+
+
+
+.coolbt{
+  background-color: rgba(0,0,0,0);
+  margin-top: 35px;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-color: #fff;
+  border-width: 2px;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+
+.last{
+  min-width: 100%;
 }
 
