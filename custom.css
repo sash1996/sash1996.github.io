@@ -192,7 +192,7 @@ body {
   margin-top: 35px;
   margin-right: 25px;
   margin-left: 25px;
-  border-color: black;
+  border-color: rgba(100,100,100,.2);
   border-width: 2px;
 }
 
